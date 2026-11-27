@@ -4,7 +4,7 @@
  "iter": 310000,
  "salt": "tMwM6JnGj9QpkcOM2hjmiA==",
  "check": "6siw+GsB9ydcOoricpbUlhSGaviRibyotKIYFt3HtL8VB/AX",
- "app": "data/app-1kyu.bin",
+ "app": "data/app.bin",
  "pdf": {
   "商T": {
    "name": "s-text.pdf",
